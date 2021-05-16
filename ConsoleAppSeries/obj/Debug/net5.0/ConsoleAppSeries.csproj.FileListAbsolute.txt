@@ -1,0 +1,16 @@
+C:\Eduardo\Innovation One\ConsoleAppSeries\bin\Debug\net5.0\ConsoleAppSeries.exe
+C:\Eduardo\Innovation One\ConsoleAppSeries\bin\Debug\net5.0\ConsoleAppSeries.deps.json
+C:\Eduardo\Innovation One\ConsoleAppSeries\bin\Debug\net5.0\ConsoleAppSeries.runtimeconfig.json
+C:\Eduardo\Innovation One\ConsoleAppSeries\bin\Debug\net5.0\ConsoleAppSeries.runtimeconfig.dev.json
+C:\Eduardo\Innovation One\ConsoleAppSeries\bin\Debug\net5.0\ConsoleAppSeries.dll
+C:\Eduardo\Innovation One\ConsoleAppSeries\bin\Debug\net5.0\ref\ConsoleAppSeries.dll
+C:\Eduardo\Innovation One\ConsoleAppSeries\bin\Debug\net5.0\ConsoleAppSeries.pdb
+C:\Eduardo\Innovation One\ConsoleAppSeries\obj\Debug\net5.0\ConsoleAppSeries.csprojAssemblyReference.cache
+C:\Eduardo\Innovation One\ConsoleAppSeries\obj\Debug\net5.0\ConsoleAppSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eduardo\Innovation One\ConsoleAppSeries\obj\Debug\net5.0\ConsoleAppSeries.AssemblyInfoInputs.cache
+C:\Eduardo\Innovation One\ConsoleAppSeries\obj\Debug\net5.0\ConsoleAppSeries.AssemblyInfo.cs
+C:\Eduardo\Innovation One\ConsoleAppSeries\obj\Debug\net5.0\ConsoleAppSeries.csproj.CoreCompileInputs.cache
+C:\Eduardo\Innovation One\ConsoleAppSeries\obj\Debug\net5.0\ConsoleAppSeries.dll
+C:\Eduardo\Innovation One\ConsoleAppSeries\obj\Debug\net5.0\ref\ConsoleAppSeries.dll
+C:\Eduardo\Innovation One\ConsoleAppSeries\obj\Debug\net5.0\ConsoleAppSeries.pdb
+C:\Eduardo\Innovation One\ConsoleAppSeries\obj\Debug\net5.0\ConsoleAppSeries.genruntimeconfig.cache
